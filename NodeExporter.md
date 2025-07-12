@@ -15,7 +15,9 @@
           - '192.168.100.20:9100'
           - '192.168.100.199:9100'
 
-####
+#### Restart prometheus service
+    systemctl restart prometheus.service
+
 
 
 
