@@ -5,7 +5,7 @@
 
     Note: container should be persistent after host rebooted
     
-### Add /etc/prometheus/prometheus.yml
+#### Add this below entries to "/etc/prometheus/prometheus.yml"
 
     - job_name: 'node-exporters'
       scrape_interval: 5s
@@ -26,7 +26,7 @@
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/1860_for-node-exporter.png)
 
 ---
-### And then we can see now in the dashboard
+#### And then we can see now in the dashboard
 
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/127.png)
 #
