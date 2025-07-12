@@ -18,12 +18,14 @@
 #### Restart prometheus service
     systemctl restart prometheus.service
 
+---
 #### Go to graphana dashboard to IMPORT prometheus data source for Node-Exporter with ID 1860
 
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/import.png)
 #
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/1860_for-node-exporter.png)
 
+---
 ### And then we can see now in the dashboard
 
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/127.png)
@@ -32,5 +34,5 @@
 #
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/20.png)
 
-
+---
 ### OS firewalld service disabled state for this senario
