@@ -2,8 +2,8 @@
 Integration NodeExporter&amp;cAdvisor with prometheus datasource to graphana dashboard 
 
 ### Node Exporter:
-    - host-level metrics (CPU, disk, memory, uptime) on VMs, bare metal, or single-node containers.
-
+    - Host-level metrics (CPU, disk, memory, uptime) on VMs, bare metal, or single-node containers.
+    - Exporter Port	9100
 ### cAdvisor:
-    - metrics per container (CPU/memory/storage usage) running multiple containers and need visibility into each shuch as Podman, Docker, or Kubernetes-like workloads.
-
+    - Metrics per container (CPU/memory/storage usage) running multiple containers and need visibility into each shuch as Podman, Docker, or Kubernetes-like workloads.
+    - Exporter Port	8080
