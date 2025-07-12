@@ -26,7 +26,7 @@
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/1860_for-node-exporter.png)
 
 ---
-#### And then we can see now in the dashboard
+#### And then we can see in the dashboard
 
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/127.png)
 #
