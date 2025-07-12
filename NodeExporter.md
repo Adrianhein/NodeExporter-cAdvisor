@@ -1,7 +1,5 @@
 ### NodeExporter
 
-### OS firewalld service disabled state for this senario
-
 ### 
     podman run -d --name=node-exporter -p 9100:9100 quay.io/prometheus/node-exporter
 
@@ -34,3 +32,5 @@
 #
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/20.png)
 
+
+### OS firewalld service disabled state for this senario
