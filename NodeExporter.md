@@ -19,9 +19,12 @@
     systemctl restart prometheus.service
 
 ####
+### And then we can see now in the dashboard
 
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/127.png)
+#
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/199.png)
+#
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/20.png)
 
 
