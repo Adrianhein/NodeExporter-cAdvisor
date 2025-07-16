@@ -23,6 +23,14 @@
 ---
 #### Go to graphana dashboard to IMPORT prometheus data source for Node-Exporter with ID 1860
 
+##### http://<localhost>:3000
+##### http://<ip-address>:3000
+
+##### #First login use:
+##### user=admin
+##### pasword=admin
+
+
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/import.png)
 #
 ![Photo](https://github.com/Adrianhein/NodeExporter-cAdvisor/blob/main/images/1860_for-node-exporter.png)
